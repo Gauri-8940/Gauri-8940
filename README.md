@@ -24,6 +24,7 @@
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ## 👩‍💻 About Me
@@ -31,34 +32,54 @@
 🟢 **AVAILABLE FOR OPPORTUNITIES**
 
 👩 **Name:** Gauri Chavan  
-💼 **Role:** Full Stack Developer  
+💼 **Role:** Java Full Stack Developer  
+📅 **Experience:** 2+ Years  
 📍 **Location:** Pune, India  
 📧 **Email:** gaurichavan1652000@gmail.com  
-🎯 **Focus:** Java Full Stack Development  
+🎯 **Focus:** Spring Boot + React.js Development  
+
+---
 
 ### 💼 Experience
+
 **Navaantrix Pvt Ltd**  
-Full Stack Developer Trainee  
+**Full Stack Developer Trainee**  
 **Apr 2025 – Present**
 
-- Spring Boot REST APIs
-- React.js UI Development
-- PostgreSQL
-- Keycloak Integration
-- OpenAPI YAML Tool
+✅ Spring Boot REST APIs  
+✅ React.js UI Development  
+✅ PostgreSQL Database Work  
+✅ Keycloak Integration  
+✅ OpenAPI YAML Generation  
+✅ Swagger-like Documentation Tool  
+
+<br>
 
 **G-Soft Solutions Pvt Ltd**  
-Java Developer Intern
+**Java Developer Intern**
 
-- Java
-- SQL
-- Documentation
+✅ Java Development  
+✅ SQL Query Writing  
+✅ Technical Documentation  
+
+---
 
 ### 🎓 Education
-**MCA** — CGPA 8.00  
-**BCA** — CGPA 7.61
+
+**Master of Computer Application (MCA)**  
+Tilak Maharashtra Vidyapeeth University  
+CGPA: **8.00**
+
+<br>
+
+**Bachelor of Computer Application (BCA)**  
+Savitribai Phule Pune University  
+CGPA: **7.61**
+
+---
 
 ### 💼 Open To Work
+
 🟩 Remote  
 🟦 On-site  
 🟨 Hybrid
@@ -94,10 +115,18 @@ Java Developer Intern
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-### Projects
-🌾 Swagger Tool  
-🍽 Mess Management System  
-🎯 Face Recognition Attendance  
+---
+
+### 🚀 Projects
+
+🌾 **Navaantrix Swagger Tool**  
+Custom API documentation platform
+
+🍽 **Mess Management System**  
+CRUD + JDBC + MySQL
+
+🎯 **Face Recognition Attendance**  
+Python + OpenCV + MySQL
 
 </td>
 
@@ -107,20 +136,21 @@ Java Developer Intern
 
 🎓 Java Full Stack Certification  
 🏗 Built Production REST APIs  
-📘 Swagger-like API Tool  
-🔐 Keycloak Admin UI  
+📘 Swagger-like API Documentation Tool  
+🔐 Keycloak Admin Management UI  
+🚀 Full Stack Project Development  
 
 ---
 
 ## 💻 Coding Profiles
 
-### LeetCode
-🟧 Active Problem Solver
+### 🟧 LeetCode
+Active Problem Solver
 
-### HackerRank
-🟩 Java  
-🟩 SQL  
-🟩 Problem Solving
+### 🟩 HackerRank
+Java ⭐⭐⭐⭐⭐  
+SQL ⭐⭐⭐⭐⭐  
+Problem Solving ⭐⭐⭐⭐
 
 ---
 
@@ -130,18 +160,21 @@ Java Developer Intern
 🤝 Team Collaborator  
 📚 Consistent Learner  
 💡 Problem Solver  
+🧠 Clean Code Mindset  
 
 ---
 
 ## ❤️ Highlights
 
-✅ Clean Architecture  
-✅ CRUD Operations  
 ✅ REST APIs  
+✅ CRUD Operations  
 ✅ Database Design  
+✅ Clean Architecture  
 ✅ React UI Development  
+✅ Backend Integration  
 
 </td>
+
 </tr>
 </table>
 

@@ -1,6 +1,4 @@
-# Premium GitHub Profile README for Gauri Chavan
 
-````md
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Gauri-8940&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -203,4 +201,3 @@ Then add:
 ⭐ If you like my work, consider giving a star!
 
 </div>
-```

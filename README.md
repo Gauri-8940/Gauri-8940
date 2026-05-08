@@ -1,165 +1,197 @@
+# Premium GitHub Profile README for Gauri Chavan
+
+````md
 <div align="center">
 
-# ⚡ GAURI CHAVAN ⚡
+<img src="https://komarev.com/ghpvc/?username=Gauri-8940&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-### Full Stack Developer | Java Backend | React.js Enthusiast
+# Hi 👋, I'm Gauri Chavan
 
-<p>
-<a href="https://github.com/Gauri-8940"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/gauri-chavan-5b11b0229"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:gaurichavan1652000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Developer;REST+API+Builder;Open+to+Work+🚀" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;REST+API+Developer;Open+to+Work+🚀" />
+### Full Stack Developer | Java | Spring Boot | React.js | PostgreSQL
+
+<a href="https://github.com/Gauri-8940">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gaurichavann/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gaurichavan1652000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/__g_a_u_r_i__01/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/gauri739780">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+<img align="right" alt="Gauri" width="250" src="https://github.com/Gauri-8940.png" />
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👩‍💻 About Me
 
-💻 Full Stack Developer Trainee at **Navaantrix Pvt Ltd**  
-🌱 Currently working on **Spring Boot + React.js Projects**  
-🔐 Experience with **Keycloak User Management**  
-📄 Built custom **Swagger-like API Documentation Tool**  
-🗄 Worked with **PostgreSQL, MySQL, SQL Server**  
-📍 Pune, India  
-🎓 MCA Graduate  
-🚀 Open to exciting software development opportunities  
+- 💼 Full Stack Developer Trainee at **Navaantrix Pvt Ltd**
+- 🌱 Currently working with **Spring Boot + React.js**
+- 🔐 Built **Keycloak User Management UI**
+- 📘 Developed a **Swagger-like API Documentation Tool**
+- 🗄️ Experienced with **PostgreSQL, MySQL, SQL Server**
+- 🎓 MCA Graduate
+- 📍 Pune, India
+- 🚀 Open to **Remote | Hybrid | On-site Opportunities**
 
 ---
 
-# 🛠 Skills & Technologies
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,python" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp" />
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🚀 Navaantrix Pvt Ltd
-**Full Stack Developer Trainee** *(Apr 2025 – Present)*
+### Navaantrix Pvt Ltd | Full Stack Developer Trainee *(Apr 2025 – Present)*
+- Designed and developed REST APIs using Spring Boot
+- Built crop, pest, and plantation modules
+- Implemented DTOs, controllers, repository layer with clean architecture
+- Optimized PostgreSQL queries
+- Built custom Swagger-like API documentation platform
+- Generated OpenAPI YAML dynamically
+- Developed Keycloak user/roles/groups management UI in React.js
 
-✅ Designed and developed REST APIs using Spring Boot  
-✅ Built crop, pest, plantation modules  
-✅ Implemented DTOs, controllers, repositories  
-✅ Optimized PostgreSQL queries  
-✅ Developed Swagger-like API Documentation Tool  
-✅ Generated OpenAPI YAML dynamically  
-✅ Built Keycloak User Management UI using React.js  
-
----
-
-## 💻 G-Soft Solutions Pvt Ltd
-**Java Developer Intern**
-
-✅ Java programming & SQL development  
-✅ Database data migration scripts  
-✅ Documentation & onboarding support  
+### G-Soft Solutions Pvt Ltd | Java Developer Intern
+- Worked with Java programming and SQL
+- Wrote database migration/extraction queries
+- Created onboarding and technical documentation
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌾 Navaantrix Swagger Tool
+### 🌾 Navaantrix Swagger Tool
 **React.js | Spring Boot | PostgreSQL**
-
-Custom API documentation generation platform similar to Swagger.
-
-Features:
-- Project creation
-- API definition
+- Custom API documentation platform
 - OpenAPI YAML generation
-- API documentation viewer
+- API definition & documentation viewer
 
----
-
-## 🍽 Mess Management System
-**Java | MySQL | JDBC**
-
-Features:
+### 🍽️ Mess Management System
+**Java | JDBC | MySQL**
 - CRUD operations
-- Customer management
-- Meal tracking
+- Meal/customer management
 - Database integration
 
----
-
-## 🎯 Face Recognition Attendance System
-**Python | OpenCV | Tkinter**
-
-Features:
+### 🎯 Face Recognition Attendance System
+**Python | OpenCV | Tkinter | MySQL**
 - Real-time face recognition
-- Automated attendance tracking
-- MySQL integration
+- Automated attendance logging
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauri-8940&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-8940&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauri-8940&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Gauri-8940&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-8940&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gauri-8940&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Achievements
-
-🏅 Java Full Stack Developer Certification — Giri’s Tech Hub  
-🏗 Built production-level REST APIs  
-📘 Custom Swagger/OpenAPI documentation platform  
-🔐 Keycloak admin panel implementation  
-
----
-
-# 🎓 Education
-
-### Tilak Maharashtra Vidyapeeth University
-**Master of Computer Application (MCA)**  
-CGPA: **8.00**
-
-### Savitribai Phule Pune University
-**Bachelor of Computer Application (BCA)**  
-CGPA: **7.61**
-
----
-
-# 📫 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-<a href="mailto:gaurichavan1652000@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/gauri-chavan-5b11b0229"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/Gauri-8940"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<img src="https://github-profile-trophy.vercel.app/?username=Gauri-8940&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/__g_a_u_r_i__01/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode" />
+</a>
+<a href="https://www.hackerrank.com/profile/gauri739780">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-green?style=for-the-badge&logo=hackerrank" />
+</a>
+</p>
+
+---
+
+## 🏅 Achievements
+
+- Java Full Stack Developer Certification — Giri’s Tech Hub
+- Built production-grade REST APIs
+- Developed custom Swagger/OpenAPI documentation tool
+- Implemented Keycloak admin management UI
+
+---
+
+## 🎓 Education
+
+**Tilak Maharashtra Vidyapeeth University**  
+Master of Computer Application (MCA) — CGPA: 8.00
+
+**Savitribai Phule Pune University**  
+Bachelor of Computer Application (BCA) — CGPA: 7.61
+
+---
+
+## 🐍 Contribution Snake
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Gauri-8940
+          svg_out_path: dist/github-contribution-grid-snake.svg
+````
+
+Then add:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gauri-8940/Gauri-8940/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -168,6 +200,7 @@ CGPA: **7.61**
 
 ## ✨ Thanks for visiting my profile ✨
 
-⭐ If you like my work, consider giving a star ⭐
+⭐ If you like my work, consider giving a star!
 
 </div>
+```

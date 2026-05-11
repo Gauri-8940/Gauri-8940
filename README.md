@@ -10,12 +10,13 @@
 <a href="mailto:gaurichavan1652000@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/__g_a_u_r_i__01/">
+<!--<a href="https://leetcode.com/u/__g_a_u_r_i__01/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://www.hackerrank.com/profile/gauri739780">
 <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+-->
 </p>
 
 </div>

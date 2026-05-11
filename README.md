@@ -142,7 +142,7 @@ Python + OpenCV + MySQL
 
 ---
 
-## 💻 Coding Profiles
+<!--## 💻 Coding Profiles
 
 ### 🟧 LeetCode
 Active Problem Solver
@@ -153,6 +153,7 @@ SQL ⭐⭐⭐⭐⭐
 Problem Solving ⭐⭐⭐⭐
 
 ---
+-->
 
 ## 🌟 Strengths
 
